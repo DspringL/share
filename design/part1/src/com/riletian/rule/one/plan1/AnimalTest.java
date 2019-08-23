@@ -4,12 +4,11 @@ import org.junit.jupiter.api.Test;
 
 class AnimalTest {
 	@Test
-	void testEat() {
+	void testLife() {
 		Animal animal = new Animal();
-		animal.eat("山羊");
-		animal.eat("兔子");
-		animal.eat("老虎");
-		animal.eat("狮子");
-
+		animal.life("鲨鱼");
+		animal.life("鲸鱼");
+		animal.life("老虎");
+		animal.life("狮子");
 	}
 }

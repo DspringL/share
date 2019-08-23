@@ -6,11 +6,11 @@ package com.riletian.rule.one.plan3;
  *
  */
 public class Animal {
-    public void eat(String name){
-        System.out.println(name + "： 吃草");
+    public void life(String name){
+        System.out.println(name + "： 在水中生活");
     }
     
-    public void eatMeat(String name){
-        System.out.println(name + "： 吃肉");
+    public void lifeOnLand(String name){
+        System.out.println(name + "： 在陆上生活");
     }
 }

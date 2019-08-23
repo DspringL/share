@@ -7,10 +7,10 @@ class AnimalTest {
 	@Test
 	void test() {
         Animal animal = new Animal();
-        animal.eat("山羊");
-        animal.eat("兔子");
-        animal.eatMeat("老虎");
-        animal.eatMeat("狮子");
+        animal.life("鲸鱼");
+        animal.life("鲨鱼");
+        animal.lifeOnLand("老虎");
+        animal.lifeOnLand("狮子");
 	}
 
 }
