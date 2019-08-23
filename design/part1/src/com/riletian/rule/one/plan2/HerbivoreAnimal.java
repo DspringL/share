@@ -8,6 +8,6 @@ package com.riletian.rule.one.plan2;
  */
 public class HerbivoreAnimal {
 	public void eat(String name) {
-		System.out.println(name + "： 吃了草，很开心");
+		System.out.println(name + "： 吃草");
 	}
 }

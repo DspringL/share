@@ -7,6 +7,6 @@ package com.riletian.rule.one.plan2;
  */
 public class RaptatorialAnimal {
 	public void eat(String name) {
-		System.out.println(name + "： 吃了肉，很开心");
+		System.out.println(name + "： 吃肉");
 	}
 }
