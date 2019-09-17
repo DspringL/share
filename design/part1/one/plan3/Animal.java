@@ -1,4 +1,4 @@
-package part1.one.plan3;
+package design.part1.one.plan3;
 
 /**
  * 动物类

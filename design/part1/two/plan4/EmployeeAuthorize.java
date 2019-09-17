@@ -1,4 +1,4 @@
-package part1.two.plan4;
+package design.part1.two.plan4;
 
 public class EmployeeAuthorize extends AbstractAuthorize {
 

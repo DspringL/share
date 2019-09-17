@@ -1,4 +1,4 @@
-package part1.two.plan4;
+package design.part1.two.plan4;
 /**
  * 基础鉴权抽象类
  * @author lwz

@@ -1,4 +1,4 @@
-package part1.one.plan2;
+package design.part1.one.plan2;
 
 /**
  * 水系动物类

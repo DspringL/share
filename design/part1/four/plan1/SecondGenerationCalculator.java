@@ -1,4 +1,4 @@
-package part1.four.plan1;
+package design.part1.four.plan1;
 
 public class SecondGenerationCalculator extends FirstGenerationCalculator {
 	@Override

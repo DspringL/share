@@ -1,4 +1,4 @@
-package part1.five.plan1;
+package design.part1.five.plan1;
 
 public class Car {
 	protected int type;

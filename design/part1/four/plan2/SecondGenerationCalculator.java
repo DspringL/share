@@ -1,4 +1,4 @@
-package part1.four.plan2;
+package design.part1.four.plan2;
 
 public class SecondGenerationCalculator extends BaseCalculator {
 	//使用组合关系使用一代计算器

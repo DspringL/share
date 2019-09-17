@@ -1,4 +1,4 @@
-package part1.six.plan2;
+package design.part1.six.plan2;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

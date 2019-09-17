@@ -1,4 +1,4 @@
-package part1.five.plan2;
+package design.part1.five.plan2;
 
 public abstract class AbstractCar {
 

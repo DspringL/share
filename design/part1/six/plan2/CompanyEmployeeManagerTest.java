@@ -1,4 +1,4 @@
-package part1.six.plan2;
+package design.part1.six.plan2;
 
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package part1.three.plan2;
+package design.part1.three.plan2;
 
 /**
  * 手机类

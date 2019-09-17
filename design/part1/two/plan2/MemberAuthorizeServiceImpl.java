@@ -1,4 +1,4 @@
-package part1.two.plan2;
+package design.part1.two.plan2;
 
 public class MemberAuthorizeServiceImpl implements IMemberAuthorizeService,IAuthorizeService{
 

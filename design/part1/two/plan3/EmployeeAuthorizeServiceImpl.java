@@ -1,4 +1,4 @@
-package part1.two.plan3;
+package design.part1.two.plan3;
 
 public class EmployeeAuthorizeServiceImpl implements IAuthorizeService {
 

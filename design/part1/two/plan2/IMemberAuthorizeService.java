@@ -1,4 +1,4 @@
-package part1.two.plan2;
+package design.part1.two.plan2;
 
 /**
  * 会员鉴权接口

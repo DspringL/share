@@ -1,4 +1,4 @@
-package part1.two.plan2;
+package design.part1.two.plan2;
 /**
  * 基础鉴权接口
  * @author lwz

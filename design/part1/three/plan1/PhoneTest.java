@@ -1,4 +1,4 @@
-package part1.three.plan1;
+package design.part1.three.plan1;
 
 import org.junit.jupiter.api.Test;
 
